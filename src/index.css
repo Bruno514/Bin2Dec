@@ -30,6 +30,9 @@ button {
   transition: transform 0.4s ease-in-out;
   margin-top: 1rem;
   max-width: 7rem;
+  background-color: brown;
+  color: white; 
+  border: solid 2px black
 }
 
 button:hover {
